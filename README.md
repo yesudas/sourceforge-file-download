@@ -21,3 +21,7 @@ extract the wget.exe from the zip
 # Use ./ (or any valid dir spec):
 
 ./script.sh
+
+# Use below guideline to add any other add-ons to Git Bash
+
+https://gist.github.com/evanwill/0207876c3243bbb6863e65ec5dc3f058
